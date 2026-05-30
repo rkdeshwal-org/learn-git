@@ -1,1 +1,2 @@
 this is second sotry from vs
+added changes to story-2 as suggested in PR#2
